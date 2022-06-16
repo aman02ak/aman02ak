@@ -1,4 +1,4 @@
-- 👋 Hi, Myself @aman02ak
+- 👋 Hi, Myself Aman
 - I am Software Engineer with total of 1.2 Year experience at Rapid Innovation Labs, TCS.
 - I have worked as a Machine Learning Engineer, as well as Full Stack Developer
 - I have a strong understanding of Data Structures, Algorithms, Relational Database and Operating System.
