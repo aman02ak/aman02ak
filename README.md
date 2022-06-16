@@ -4,7 +4,7 @@
 - I have a strong understanding of Data Structures, Algorithms, Relational Database and Operating System.
 - 👀 I’m interested in Software Development Engineering, more or less focused in Backend Development.
 - 💞️ I’m looking to collaborate on projects specific to Full Stack Development.
-- 📫 You can reach out to me via my linkedIn: https://www.linkedin.com/in/amankr02/
+- 📫 You can reach out to me via my linkedIn: <a href = "https://www.linkedin.com/in/amankr02/"> LinkedIn </a>
 
 <!---
 aman02ak/aman02ak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
